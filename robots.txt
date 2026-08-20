@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Ajasys.github.io/archive-1zebex/sitemap.xml
